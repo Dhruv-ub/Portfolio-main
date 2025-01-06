@@ -1,0 +1,26 @@
+[
+  {
+    "title": "CRUD web app",
+    "imageSrc": "projects/project.png",
+    "description": "A CRUD web app in MERN stack with all create,read,update,deletion feature",
+    "skills": ["React", "Express", "Node","MongoDB"],
+    "demo": "https://frontend-gamma-flame-16.vercel.app/",
+    "source": "https://github.com/Dhruv-ub/CRUD-app"
+  },
+  {
+    "title": "ECOMMERCE web app",
+    "imageSrc": "projects/project.png",
+    "description": "We can buy products add to cart pay through api integration",
+    "skills": ["React", "Express", "Node", "MongoDB","Stripe api"],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "ORAL CANCER detection web app",
+    "imageSrc": "projects/project.png",
+    "description": "Used efficient net algorithm and got 98% accuracy and then integrated it into website using django and flask",
+    "skills": ["React", "Express", "Node","MongoDB","django","flask","Convolutional Neural Network"],
+    "demo": "",
+    "source": ""
+  }
+]
