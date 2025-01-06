@@ -9,7 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Dhruv</h1>
         <p className={styles.description}>
-        A Full-Stack MERN Developer and Web Designer creating responsive and user-friendly web applications. Currently in my second year of  btech in CSE (specialization in AIML). Reach out if you'd like to learn more!
+        A Full-Stack MERN Developer and Web Designer creating responsive and user-friendly web applications. Currently in my second year of  btech in CSE (specialization in AIML) from VELLORE INSTITUTE OF TECHNOLOGY, BHOPAL. Reach out if you'd like to learn more!
         </p>
         <a href="mailto:dksingh2953@gmail.com" className={styles.contactBtn}>
           Contact Me
