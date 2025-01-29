@@ -1,10 +1,18 @@
 [
   {
+    "role": "Full Stack Developer Intern",
+    "organisation": "Elite Forums",
+    "startDate": "Jan, 2025",
+    "endDate": "Present",
+    "experiences": ["Centralized platform for event management.","Seamless registration for all user types.","Real-time updates and notifications.","Networking through messaging and forums.","Enhanced event visibility with search filters."],
+    "imageSrc": "history/jura.png"
+  },
+  {
     "role": "SpaceTech Developer Intern",
     "organisation": "Indian Space Lab",
     "startDate": "Dec, 2024",
-    "endDate": "Present",
+    "endDate": "Jan, 2025",
     "experiences": ["Worked on drone navigation systems for Air Taxis.", "Optimized CubeSat telemetry.", "Developed astronomy data analysis tools."],
-    "imageSrc": "history/google.png"
+    "imageSrc": "history/ssj.png"
   }
 ]
